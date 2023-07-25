@@ -1,7 +1,7 @@
 ### Hi I'm Gaurav Asode 👋
 
 # 💫 About Me:
-🔭 I'm currently preparing for placements!<br><br>🌱 I’m currently pursuing Full Stack Web Development Course.<br><br>📃 Check Out my <a href="https://drive.google.com/file/d/1b0gW5M03rF9LhgXnkX_a93kL2bjH3UJj/view?usp=share_link">Resume</a><br><br> 📃 Check Out my <a href="[https://drive.google.com/file/d/1b0gW5M03rF9LhgXnkX_a93kL2bjH3UJj/view?usp=share_link](https://www.linkedin.com/in/gaurav-asode-31444b171/)">Linkedin</a><br><br>📫 Know more about me <a href="https://gaurav040399.github.io/">Portfolio</a><br><br>😄 All of my projects are available in My <a href="https://github.com/Gaurav040399">Github</a> Repositories<br><br>💬 Ask me about HTML, CSS, Node.js , JavaScript<br><br>⚡ How to reach me gauravasode5@gmail.com
+🔭 I'm currently preparing for placements!<br><br>🌱 I’m currently pursuing Full Stack Web Development Course.<br><br>📃 Check Out my <a href="https://drive.google.com/file/d/1b0gW5M03rF9LhgXnkX_a93kL2bjH3UJj/view?usp=share_link">Resume</a><br><br> 📃 Check Out my <a href="https://www.linkedin.com/in/gaurav-asode-31444b171/">Linkedin</a><br><br>📫 Know more about me <a href="https://gaurav040399.github.io/">Portfolio</a><br><br>😄 All of my projects are available in My <a href="https://github.com/Gaurav040399">Github</a> Repositories<br><br>💬 Ask me about HTML, CSS, Node.js , JavaScript<br><br>⚡ How to reach me gauravasode5@gmail.com
 
 
 # 💻 Tech Stack:
